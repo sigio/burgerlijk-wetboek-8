@@ -2,7 +2,7 @@
 
 Burgerlijk Wetboek Boek 8
 Geraadpleegd op 06-08-2023.
-Geldend van 01-07-2019 t/m 30-09-2022
+Geldend van 01-10-2022 t/m 31-12-2022
 
 Burgerlijk Wetboek Boek 8, Verkeersmiddelen en vervoer
 
@@ -262,6 +262,10 @@ Artikel 51
 Artikel 52
 
 Van de houders van verschillende exemplaren van hetzelfde CT-document heeft hij het beste recht, die houder is van het exemplaar, waarvan ná de gemeenschappelijke voorman, die houder was van al die exemplaren, het eerst een ander houder is geworden te goeder trouw en onder bezwarende titel.
+
+Artikel 53
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Afdeling 3. Overeenkomst tot het doen vervoeren van goederen
 
@@ -728,6 +732,10 @@ Artikel 194
 
 6.	Bij het verzoek tot teboekstelling wordt woonplaats gekozen in Nederland. Deze woonplaats wordt in het verzoek tot teboekstelling vermeld en kan door een andere in Nederland gelegen woonplaats worden vervangen.
 
+Artikel 194a
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Artikel 195
 
 1.	De teboekstelling wordt slechts doorgehaald
@@ -1024,7 +1032,15 @@ Artikel 366
 
 Het totaal van de bedragen verhaalbaar op een derde, die partij is bij een exploitatieovereenkomst, en zijn ondergeschikten, al dan niet gezamenlijk met het bedrag verhaalbaar op de wederpartij van degeen, die de in de artikelen 363 of 364 genoemde vordering instelde en haar ondergeschikten, mag, behoudens in geval van schade ontstaan uit eigen handeling of nalaten van de aangesprokene, geschied hetzij met het opzet die schade te veroorzaken, hetzij roekeloos en met de wetenschap dat die schade er waarschijnlijk uit zou voortvloeien, niet overtreffen het totaal, dat op grond van de door hen ingeroepen overeenkomst is verschuldigd.
 
+Artikel 367
+
+[Dit onderdeel is nog niet inwerking getreden]
+
 Afdeling 2. Overeenkomst van goederenvervoer over zee
+
+Artikel 369
+
+[Dit onderdeel is nog niet inwerking getreden]
 
 Artikel 370
 
@@ -1830,7 +1846,7 @@ Artikel 529b
 
 1.	Vorderingen tot schadevergoeding die krachtens deze afdeling door een verzekering of andere financiële zekerheid worden gedekt, mogen rechtstreeks tegen de verzekeraar of andere persoon die de financiële zekerheid stelt, worden ingesteld. In dit geval kan de verweerder, zelfs indien de vervoerder niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag gelijk aan het verzekerde bedrag of het bedrag van de andere financiële zekerheid als bedoeld in artikel 529.
 
-2.	De verweerder komen alle verweermiddelen toe welke de vervoerder tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de vervoerder surséance van betaling is verleend, dat ten aanzien van de vervoerder de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de vervoerder zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de schade is veroorzaakt door opzettelijk wangedrag van de vervoerder zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de vervoerder tegen hem ingestelde vordering komen hem niet toe.
+2.	De verweerder komen alle verweermiddelen toe welke de vervoerder tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de vervoerder surseance van betaling is verleend, dat ten aanzien van de vervoerder de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de vervoerder zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de schade is veroorzaakt door opzettelijk wangedrag van de vervoerder zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de vervoerder tegen hem ingestelde vordering komen hem niet toe.
 
 3.	De verweerder kan de vervoerder en de feitelijke vervoerder steeds in het geding roepen.
 
@@ -2337,7 +2353,7 @@ Artikel 644
 
 1.	Vorderingen tot vergoeding van schade door verontreiniging kunnen rechtstreeks worden ingesteld tegen de verzekeraar of andere persoon die financiële zekerheid heeft gesteld ter dekking van de aansprakelijkheid van de geregistreerde eigenaar wegens schade door verontreiniging. In dit geval kan de verweerder, zelfs indien de scheepseigenaar op grond van artikel 643 niet gerechtigd is zijn aansprakelijkheid te beperken, zijn aansprakelijkheid beperken tot het bedrag gelijk aan het verzekerde bedrag of het bedrag van de andere financiële zekerheid als bedoeld in artikel 645.
 
-2.	De verweerder komen alle verweermiddelen toe welke de scheepseigenaar tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de scheepseigenaar surséance van betaling is verleend, dat ten aanzien van de scheepseigenaar de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de scheepseigenaar zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de schade is veroorzaakt door opzettelijk wangedrag van de scheepseigenaar zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de scheepseigenaar tegen hem ingestelde vordering komen hem niet toe.
+2.	De verweerder komen alle verweermiddelen toe welke de scheepseigenaar tegen de vorderingen zou hebben kunnen aanvoeren, doch hij kan geen beroep doen op de omstandigheid dat de scheepseigenaar surseance van betaling is verleend, dat ten aanzien van de scheepseigenaar de schuldsaneringsregeling natuurlijke personen van toepassing is, of dat de scheepseigenaar zich in staat van faillissement of vereffening bevindt. Hij kan zich voorts verweren met een beroep op het feit dat de schade is veroorzaakt door opzettelijk wangedrag van de scheepseigenaar zelf, doch andere verweermiddelen welke hij zou hebben kunnen aanvoeren tegen een door de scheepseigenaar tegen hem ingestelde vordering komen hem niet toe.
 
 3.	De verweerder kan de scheepseigenaar steeds in het geding roepen.
 
